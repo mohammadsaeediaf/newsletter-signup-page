@@ -15,8 +15,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ## Overview
 
-### The challenge
-
 Users should be able to:
 
 - Add their email and submit the form
@@ -33,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- LinkedIn [Linkedin](www.linkedin.com/in/mohammad-saeedi-8243512bb)
+- LinkedIn [Linkedin](https://www.linkedin.com/in/mohammad-saeedi-8243512bb/)
 
 ### Built with
 
