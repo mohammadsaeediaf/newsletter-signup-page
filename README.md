@@ -28,6 +28,7 @@ Users should be able to:
 
 ### Links
 
+- Soulution Url [Solution](https://www.frontendmentor.io/solutions/responsive-subscription-newsletter-with-html-css-javascript-n_aQfBmGH4)
 - LinkedIn [Linkedin](https://www.linkedin.com/in/mohammad-saeedi-8243512bb/)
 - Live Demo [Live Demo](https://mohammadsaeediaf.github.io/newsletter-signup-page/)
 
